@@ -1,7 +1,7 @@
 
 # Zara Interview test
 
-Realización de un api rest para el cáculo del precio de un producto a fecha concreta.
+Realización de un api rest para el cálculo del precio de un producto a fecha concreta.
 
 
 
